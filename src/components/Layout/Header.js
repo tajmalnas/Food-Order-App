@@ -9,7 +9,6 @@ const Header = () => {
     <Fragment>
         <header className={styles.header}>
           <h1>ReactMeals</h1> 
-     
           <HeaderCartButton/>  
         </header>
         <div className={styles['main-image']}>
